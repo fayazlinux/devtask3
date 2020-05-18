@@ -1,3 +1,3 @@
 <?php
-print ( " LINUX is ")
+print ( " LINUX is MY ")
 ?>
