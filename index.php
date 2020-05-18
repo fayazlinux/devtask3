@@ -1,3 +1,3 @@
 <?php
-print ( " LINUX is MY Blood !!! ***")
+printssss( " LINUX is MY Blood !!! ***")
 ?>
