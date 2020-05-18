@@ -1,3 +1,3 @@
 <?php
-print ( " LINUX FOR EVERYONE !!! ")
+printsss ( " LINUX FOR EVERYONE !!! ")
 ?>
