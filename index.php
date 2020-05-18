@@ -1,3 +1,3 @@
 <?php
-printsss ( " LINUX FOR EVERYONE !!! ")
+print ( " LINUX FOR EVERYONE #RightEducation #SIR VIMAL DAGA  !!! ")
 ?>
